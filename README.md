@@ -1,7 +1,12 @@
 ### Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
 
 
-<a> <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-ansari&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-ansari&theme=react&line_height=40&hide=css"/>
+    </a>
 
 
 <!--
