@@ -6,6 +6,7 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
+  [![HitCount](http://hits.dwyl.com/maaz-ansari/maaz-ansari.svg)](http://hits.dwyl.com/maaz-ansari/maaz-ansari)
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-ansari&theme=react&line_height=40&hide=css"/>
     </a>
