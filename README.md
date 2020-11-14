@@ -4,9 +4,10 @@
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
 </div>
   <h2 align="center"> Github Statistics 📈 </h2>
+  [![HitCount](http://hits.dwyl.com/maaz-ansari/maaz-ansari.svg)](http://hits.dwyl.com/maaz-ansari/maaz-ansari)
   
   <div align="center"> 
-  [![HitCount](http://hits.dwyl.com/maaz-ansari/maaz-ansari.svg)](http://hits.dwyl.com/maaz-ansari/maaz-ansari)
+  
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-ansari&theme=react&line_height=40&hide=css"/>
     </a>
