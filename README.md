@@ -3,6 +3,9 @@
 <br>
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
 </div>
+
+<br>
+<br>
 <h2 align="center"> Github Statistics 📈 </h2>
   
   
@@ -13,9 +16,11 @@
     </a>
    
 <br>
+
 <h2 align="center">⚡ Here's a random dev-joke for you! </h2>  
 <h4> Concerned Parent: If all of your friends jump off a bridge would you follow them? </h4>
 <h4> Machine Learning algorithm: YES. </h4>
+
 <br>
 <h2 align="center">💬 Contact Me</h2>  
 <a href="https://www.linkedin.com/in/maaz-ansari-755360166" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
