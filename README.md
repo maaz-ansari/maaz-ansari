@@ -1,6 +1,7 @@
 ### Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋
 
 [![Header]("https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true")]
+<img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" width="30px"></h2>
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
