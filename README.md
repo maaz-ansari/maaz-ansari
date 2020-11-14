@@ -11,8 +11,10 @@
     </a>
 <br>
 <h2 align="center">⚡ Here's a random dev-joke for you! </h2>  
-  
+<h3> Concerned Parent: If all of your friends jump off a bridge would you follow them? </h3>
+<h3> Machine Learning algorithm: Yes. </h3>
 <br>
+<h2 align="center">💬 Contact Me</h2>  
 <a href="https://www.linkedin.com/in/maaz-ansari-755360166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/maaz_ansari_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
