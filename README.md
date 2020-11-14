@@ -2,7 +2,7 @@
 <h2> Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
 <br>
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true"></h2>
-<img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker%20.gif?raw=true"></h2>
+<img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
 </div>
   <h2 align="center"> Github Statistics 📈 </h2>
   
