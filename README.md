@@ -9,8 +9,10 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-ansari&theme=react&line_height=40&hide=css"/>
     </a>
-
-
+<br>
+<h2 align="center">⚡ Here's a random dev-joke for you! </h2>  
+  
+<br>
 <a href="https://www.linkedin.com/in/maaz-ansari-755360166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/maaz_ansari_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
