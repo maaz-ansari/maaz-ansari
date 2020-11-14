@@ -3,8 +3,10 @@
 <br>
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
 </div>
-  <h2 align="center"> Github Statistics 📈 </h2>
-  [![HitCount](http://hits.dwyl.com/maaz-ansari/maaz-ansari.svg)](http://hits.dwyl.com/maaz-ansari/maaz-ansari)
+<h2 align="center"> Github Statistics 📈 </h2>
+  
+---
+[![HitCount](http://hits.dwyl.com/maaz-ansari/maaz-ansari.svg)](http://hits.dwyl.com/maaz-ansari/maaz-ansari)
   
   <div align="center"> 
   
