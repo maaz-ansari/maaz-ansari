@@ -16,7 +16,7 @@
     </a>
    
 <br>
-
+<br>
 <h2 align="center">⚡ Here's a random dev-joke for you! </h2>  
 <h4> Concerned Parent: If all of your friends jump off a bridge would you follow them? </h4>
 <h4> Machine Learning algorithm: YES. </h4>
