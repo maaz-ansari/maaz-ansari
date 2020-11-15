@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
-<h2> You can see my work on: <a href="https://maaz-ansari.github.io", target="_blank"> My Portfolio </a> </h2>
+<h3> You can see my work on: <a href="https://maaz-ansari.github.io", target="_blank"> My Portfolio </a> </h3>
 <br>
 <br>
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
