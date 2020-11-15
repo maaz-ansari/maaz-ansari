@@ -6,6 +6,7 @@
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
 <br>
 - 🌱 2021 Goals: Contribute more to Open Source Projects
+<br>
 - 😄 Actively seeking for good opportunities in the field of Data Science
 </div>
 <br>
