@@ -1,13 +1,15 @@
 <div align="center">
 <h2> Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
-<h3> You can see my work on: <a href="https://maaz-ansari.github.io", target="_blank"> My Portfolio </a> </h3>
 <br>
 <br>
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
 <br>
+<br>
 🌱 2021 Goals: Contribute more to Open Source Projects
 <br>
 😄 Actively seeking good opportunities in the field of Data Science
+<br>
+<h3> You can see my work on: <a href="https://maaz-ansari.github.io", target="_blank"> My Portfolio </a> </h3>
 </div>
 <br>
 <br>
