@@ -4,8 +4,9 @@
 <br>
 <br>
 <img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker.gif"></h2>
-</div>
 - 🌱 2021 Goals: Contribute more to Open Source Projects
+- 😄 Actively seeking for good opportunities in the field of Data Science
+</div>
 <br>
 <br>
 <h2 align="center"> Github Statistics 📈 </h2>
