@@ -2,7 +2,7 @@
 <h2> Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
 <br>
 <br>
-<img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true"></h2>
+<img src="https://github.com/maaz-ansari/maaz-ansari/blob/main/Hnet-image.gif?raw=true"></h2>
 <br>
 <br>
 🌱 2021 Goals: Contribute more to Open Source Projects
